@@ -3,3 +3,5 @@
 # "Select":
 - This command is used to retrieve data from given tables
   
+* Syntax:
+- Select * from TableName;
