@@ -30,6 +30,6 @@
 # order by clause:
 -Purpose is to order the retrieved records in ascending or descending order
 
-# example:
+* example:
 -SELECT * FROM Products Order By Price ASC;
 -SELECT * FROM Products Order By Price DESC;
