@@ -33,3 +33,8 @@
 * example:
 -SELECT * FROM Products Order By Price ASC;
 -SELECT * FROM Products Order By Price DESC;
+
+# in operator:
+-Simplifies providing multiple values in Where Clause, when all the values are from the same column
+-Select * from Customers where Country in ('USA','Canada','UK');
+-
