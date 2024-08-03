@@ -28,13 +28,15 @@
 # NOT
 
 # order by clause:
--Purpose is to order the retrieved records in ascending or descending order
+-  Purpose is to order the retrieved records in ascending or descending order
 
 * example:
--SELECT * FROM Products Order By Price ASC;
--SELECT * FROM Products Order By Price DESC;
+-  SELECT * FROM Products Order By Price ASC;
+-  SELECT * FROM Products Order By Price DESC;
 
 # in operator:
--Simplifies providing multiple values in Where Clause, when all the values are from the same column
--Select * from Customers where Country in ('USA','Canada','UK');
--
+-  Simplifies providing multiple values in Where Clause, when all the values are from the same column
+
+* example:
+-  Select * from Customers where Country in ('USA','Canada','UK');
+
