@@ -40,3 +40,21 @@
 * example:
 -  Select * from Customers where Country in ('USA','Canada','UK');
 
+# MySQL Built-in Functions can be categorized into:
+- String Functions
+- Numeric Functions
+- Date and Time Functions
+- Aggregate Functions
+
+# Few Built-In Functions:
+# 1. String functions
+
+- 1. upper():
+- One of the built-in functions of MySQL 
+Converts the text under the specified Column data to Upper Case
+
+- 2. lower():
+- One of the built-in functions of MySQL 
+Converts the text under the specified Column data to Lower Case
+
+- 3. 
