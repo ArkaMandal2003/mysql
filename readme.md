@@ -46,6 +46,9 @@
 - Date and Time Functions
 - Aggregate Functions
 
+# Documentation link of mysql functions:
+- https://dev.mysql.com/doc/refman/8.4/en/built-in-function-reference.html
+  
 # Few Built-In Functions:
 # 1. String functions
 
@@ -57,4 +60,18 @@ Converts the text under the specified Column data to Upper Case
 - One of the built-in functions of MySQL 
 Converts the text under the specified Column data to Lower Case
 
-- 3. 
+- 3. length():
+- One of the built-in functions of MySQL 
+Finds the size of the data under the specified Column
+
+- 4. instr():
+- One of the built-in functions of MySQL 
+Finds the position of the given text in the data of the specified Colum
+
+- 5. concat():
+- One of the built-in functions of MySQL 
+Adds Two or More Table Column data together
+
+-  6. trim():
+-  One of the built-in functions of MySQL 
+Removes the leading and trailing spaces of the Column data
