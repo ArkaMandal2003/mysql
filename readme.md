@@ -75,3 +75,23 @@ Adds Two or More Table Column data together
 -  6. trim():
 -  One of the built-in functions of MySQL 
 Removes the leading and trailing spaces of the Column data
+
+- 7. substr():
+- One of the built-in functions of MySQL 
+Retrieves a portion of text from the data of the specified column
+
+# 2. Numeric functions:
+- 1. abs():
+- One of the built-in functions of MySQL
+Returns the positive values irrespective of the given positive or negative number data in the specified column
+
+- 2.mod():
+- One of the built-in functions of MySQL
+Returns the remainder value of the numeric data of the specified column
+
+- 3. greatest() and least()
+- Returns the greatest and least values of the given numeric values
+
+- 4. truncate():
+- Returns the numerical values with the allowed number of digits after decimal point
+- 5. 
