@@ -106,4 +106,23 @@ Select sqrt(2);
 - both returns current time in hr:min:sec format
 - select now()/select sysdate();
 - both returns current time and date simultaneously
-  
+- Select year;
+- Select month;
+- Select day;
+- Select monthname;
+- Select dayname;
+
+# 4. Aggregate Functions:
+- Select avg(price) from Products;
+- Select min(price) from Products;
+- Select max(price) from Products;
+- Select count(*) from Products;
+- Select sum(price) from Products;
+
+# Arithmetic operator:
+- The below are the different Arithmetic Operators we can use in the SQL Statements:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulus (%)
