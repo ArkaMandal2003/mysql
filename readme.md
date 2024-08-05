@@ -94,4 +94,16 @@ Returns the remainder value of the numeric data of the specified column
 
 - 4. truncate():
 - Returns the numerical values with the allowed number of digits after decimal point
-- 5. 
+
+- 5. power() and sqrt():
+- Select power(3,4);
+Select sqrt(2);
+
+# 3. Date and time functions:
+- Select current_date()/Select curdate();
+- both returns current date in a string format
+- Select current_time()/Select curtime();
+- both returns current time in hr:min:sec format
+- select now()/select sysdate();
+- both returns current time and date simultaneously
+  
